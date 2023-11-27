@@ -68,10 +68,10 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.1.1",
-    "@material-ui/icons": "^3.0.1",
+    "@material-ui/icons": "^4.0.0",
     "husky": "^1.0.1",
     "keymirror": "^0.1.1",
-    "lint-staged": "^7.3.0",
+    "lint-staged": "^10.2.0",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
@@ -81,8 +81,8 @@
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0",
-    "truffle-contract": "^3.0.6",
-    "web3": "^1.0.0-beta.36"
+    "truffle-contract": "^4.0.31",
+    "web3": "^4.0.1"
   },
   "husky": {
     "hooks": {
